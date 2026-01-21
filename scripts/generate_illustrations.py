@@ -4,6 +4,8 @@ Document Illustrator - 为文档生成配图
 基于文档内容和风格提示词，使用 Gemini AI 生成高质量配图
 """
 
+import utils.transport
+import utils.session
 import os
 import sys
 import re
