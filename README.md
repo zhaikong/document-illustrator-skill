@@ -1,6 +1,6 @@
 # Document Illustrator
 
-![Document Illustrator Cover](./cover.png)
+![Document Illustrator Cover](https://github.com/user-attachments/assets/d8b4c25c-2c9d-4e6c-aafe-d2abae764e81)
 
 > 基于 AI 智能分析的文档配图生成工具
 
